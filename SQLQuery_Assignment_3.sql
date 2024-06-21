@@ -59,10 +59,6 @@ FROM (
     HAVING COUNT(CustomerID) >= 2
 ) AS CustomerCities
 
-SELECT City
-FROM Customers
-GROUP BY City
-HAVING COUNT(CustomerID) >= 2
 
 -- List all Customer Cities that have ordered at least two different kinds of products.
 
