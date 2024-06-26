@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/bin/Debug/net8.0/Practice_Strings
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/bin/Debug/net8.0/Practice_Strings.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/bin/Debug/net8.0/Practice_Strings.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/bin/Debug/net8.0/Practice_Strings.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/bin/Debug/net8.0/Practice_Strings.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/refint/Practice_Strings.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/Practice_Strings.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/Debug/net8.0/ref/Practice_Strings.dll

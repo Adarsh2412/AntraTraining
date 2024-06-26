@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/bin/Debug/net8.0/ArraysExcercises
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/bin/Debug/net8.0/ArraysExcercises.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/bin/Debug/net8.0/ArraysExcercises.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/bin/Debug/net8.0/ArraysExcercises.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/bin/Debug/net8.0/ArraysExcercises.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/refint/ArraysExcercises.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ArraysExcercises.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/Debug/net8.0/ref/ArraysExcercises.dll

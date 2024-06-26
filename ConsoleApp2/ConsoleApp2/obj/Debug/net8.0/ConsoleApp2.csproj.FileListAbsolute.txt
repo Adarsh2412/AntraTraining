@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/refint/ConsoleApp2.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll
