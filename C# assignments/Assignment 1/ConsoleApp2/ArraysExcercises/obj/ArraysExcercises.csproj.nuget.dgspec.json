@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj": {}
+    "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj": {}
   },
   "projects": {
-    "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj": {
+    "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj",
+        "projectUniqueName": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj",
         "projectName": "ArraysExcercises",
-        "projectPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj",
+        "projectPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/ArraysExcercises/ArraysExcercises.csproj",
         "packagesPath": "/Users/adarshagrawal/.nuget/packages/",
-        "outputPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/ArraysExcercises/obj/",
+        "outputPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/ArraysExcercises/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adarshagrawal/.nuget/NuGet/NuGet.Config"

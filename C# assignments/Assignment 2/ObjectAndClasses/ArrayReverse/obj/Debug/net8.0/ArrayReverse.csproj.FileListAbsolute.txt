@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/bin/Debug/net8.0/ArrayReverse
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/bin/Debug/net8.0/ArrayReverse.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/bin/Debug/net8.0/ArrayReverse.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/bin/Debug/net8.0/ArrayReverse.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/bin/Debug/net8.0/ArrayReverse.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/refint/ArrayReverse.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ArrayReverse.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ArrayReverse/obj/Debug/net8.0/ref/ArrayReverse.dll

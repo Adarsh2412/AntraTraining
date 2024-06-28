@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Excercise03/Excercise03.csproj": {}
+    "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Excercise03/Excercise03.csproj": {}
   },
   "projects": {
-    "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Excercise03/Excercise03.csproj": {
+    "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Excercise03/Excercise03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Excercise03/Excercise03.csproj",
+        "projectUniqueName": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Excercise03/Excercise03.csproj",
         "projectName": "Excercise03",
-        "projectPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Excercise03/Excercise03.csproj",
+        "projectPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Excercise03/Excercise03.csproj",
         "packagesPath": "/Users/adarshagrawal/.nuget/packages/",
-        "outputPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Excercise03/obj/",
+        "outputPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Excercise03/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adarshagrawal/.nuget/NuGet/NuGet.Config"

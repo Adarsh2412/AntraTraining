@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/bin/Debug/net8.0/Generics_List
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/bin/Debug/net8.0/Generics_List.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/bin/Debug/net8.0/Generics_List.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/bin/Debug/net8.0/Generics_List.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/bin/Debug/net8.0/Generics_List.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/refint/Generics_List.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/Generics_List.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 3/Generics/Generics_List/obj/Debug/net8.0/ref/Generics_List.dll

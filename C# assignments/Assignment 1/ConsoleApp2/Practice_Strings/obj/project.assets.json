@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/Practice_Strings.csproj",
+      "projectUniqueName": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Practice_Strings/Practice_Strings.csproj",
       "projectName": "Practice_Strings",
-      "projectPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/Practice_Strings.csproj",
+      "projectPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Practice_Strings/Practice_Strings.csproj",
       "packagesPath": "/Users/adarshagrawal/.nuget/packages/",
-      "outputPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/ConsoleApp2/Practice_Strings/obj/",
+      "outputPath": "/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 1/ConsoleApp2/Practice_Strings/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adarshagrawal/.nuget/NuGet/NuGet.Config"

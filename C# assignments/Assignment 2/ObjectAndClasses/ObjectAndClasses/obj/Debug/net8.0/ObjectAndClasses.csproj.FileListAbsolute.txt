@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/bin/Debug/net8.0/ObjectAndClasses
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/bin/Debug/net8.0/ObjectAndClasses.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/bin/Debug/net8.0/ObjectAndClasses.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/bin/Debug/net8.0/ObjectAndClasses.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/bin/Debug/net8.0/ObjectAndClasses.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/refint/ObjectAndClasses.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ObjectAndClasses.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ObjectAndClasses/obj/Debug/net8.0/ref/ObjectAndClasses.dll

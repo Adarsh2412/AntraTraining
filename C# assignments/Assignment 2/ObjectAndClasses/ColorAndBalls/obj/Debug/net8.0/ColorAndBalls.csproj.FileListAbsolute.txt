@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/bin/Debug/net8.0/ColorAndBalls
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/bin/Debug/net8.0/ColorAndBalls.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/bin/Debug/net8.0/ColorAndBalls.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/bin/Debug/net8.0/ColorAndBalls.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/bin/Debug/net8.0/ColorAndBalls.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/refint/ColorAndBalls.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ColorAndBalls.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/ColorAndBalls/obj/Debug/net8.0/ref/ColorAndBalls.dll

@@ -1,0 +1,15 @@
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.deps.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.runtimeconfig.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.AssemblyInfoInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.AssemblyInfo.cs
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.csproj.CoreCompileInputs.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.sourcelink.json
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/refint/OOPPrinciples.dll
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.pdb
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.genruntimeconfig.cache
+/Users/adarshagrawal/Documents/Antra/AntraTraining/C# assignments/Assignment 2/ObjectAndClasses/OOPPrinciples/obj/Debug/net8.0/ref/OOPPrinciples.dll
