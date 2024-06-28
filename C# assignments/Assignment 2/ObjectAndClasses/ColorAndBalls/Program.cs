@@ -9,6 +9,9 @@ public class Program
         Ball b1 = new Ball(3.14, new Color(255, 10, 5), 0);
         Ball b2 = new Ball(10, new Color(78, 255, 40, 0), 12);
         Ball b3 = new Ball(1, new Color(100, 198, 255));
+
+        Color c1 = new Color(0,0,0);
+        
         
         b1.throw_print();
         b2.throw_print();

@@ -5,28 +5,41 @@ namespace Repository.Repositories;
 
 public class GenericRepositoryCustomer<T>: IRepository<Customer>
 {
+    private List<Customer> _customers = new List<Customer>();
     public void Add(Customer item)
     {
-        throw new NotImplementedException();
+        if (getById(item.id) != null)
+            _customers.Add(item);
     }
 
     public void remove(Customer item)
-    {
-        throw new NotImplementedException();
+    {   
+        _customers.Remove(item);
     }
 
     public void save()
     {
-        throw new NotImplementedException();
+        Console.WriteLine("These values have been saved");
+        for (int i = 0; i < _customers.Count; i++)
+        {
+            Console.WriteLine($"Id: {_customers[i].id} Name: {_customers[i].name} Email: {_customers[i].email}");
+        }
     }
 
     public IEnumerable<Customer> getAll()
     {
-        throw new NotImplementedException();
+        return _customers;
     }
 
     public Customer getById(int id)
     {
-        throw new NotImplementedException();
+        for (int i = 0; i<_customers.Count; i++)
+        {
+            if (_customers[i].id == id)
+            {
+                return _customers[i];
+            }
+        }
+        return null;
     }
 }
